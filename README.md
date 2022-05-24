@@ -27,3 +27,5 @@ But nah, I don't like this idea because of the number of requests to db and I ju
 I will also improve this readme doc but not now, 2 days direct working on the project and I'm very tired.
 
 I also can't promise something huge, revolucionary... but I will do the possible to probvide at least an estructure of something cool and that I believe can save many time from brazilians merchants once they will not have to deal with crypto direct and once the payment fall inside the "flow", it's automatically, convert the user crypto to bitcoin then send to a brazilian exchange, request the withdraw, completed the withdraw, the bank API can start to to what they was written to do (payments and transfers). Or not.
+
+*Don't forget to import the db file to your database.
