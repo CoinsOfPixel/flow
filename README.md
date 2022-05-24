@@ -1,5 +1,10 @@
 #flow
 
+Progress:
+
+![image](https://user-images.githubusercontent.com/30437560/170032516-71512823-6d24-4cdf-9740-94f392faa098.png)
+
+
 ATTENTION: THIS PROJECT IS UNDER DEVELOPMENT, I WILL UPDATE AS SOON I FINISH THE NEXT STEP.
 
 What is flow?
