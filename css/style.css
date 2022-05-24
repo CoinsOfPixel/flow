@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(155, 126, 126);
+}
+
+h1 {
+  color: rgb(61, 61, 61);
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+.refund_box_field {
+  background-color: black;
+  inline-size: 110px;
+
+}
